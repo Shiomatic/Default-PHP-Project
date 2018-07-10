@@ -11,9 +11,9 @@ return (object) array (
   'basedir' => '/',
   'maindir' => __DIR__,
   'mail' => (object) array(
-    'host' => 'smtp.gmail.com',
-    'username' => 'lolzenshio@gmail.com',
-    'password' => 'TC!Konsta2014',
+    'host' => '',
+    'username' => '',
+    'password' => '',
     'secure' => 'ssl',
     'port' => '465',
   ),
