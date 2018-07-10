@@ -1,5 +1,5 @@
 {
-  "name": "ppsystems/phpproject",
+  "name": "ppsystems/defaultproject",
   "type": "project",
   "description": "Default PHP Project",
   "minimum-stability": "dev",
