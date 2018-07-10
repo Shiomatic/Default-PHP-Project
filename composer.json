@@ -1,0 +1,24 @@
+{
+  "name": "ppsystems/phpproject",
+  "type": "project",
+  "description": "Default PHP Project",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "require": {
+    "altorouter/altorouter": "^1.2",
+    "matthiasmullie/minify": "^1.3",
+    "phpmailer/phpmailer": "v6.0.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "core\\": "core/",
+      "app\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Konstantin Händel",
+      "email": "lolzenshio@gmail.com"
+    }
+  ]
+}

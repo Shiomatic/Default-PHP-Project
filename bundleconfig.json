@@ -1,0 +1,14 @@
+[
+  {
+    "outputFileName": "js/default.min.js",
+    "inputFiles": [
+      "js/default.js"
+    ]
+  },
+  {
+    "outputFileName": "js/ppcore.min.js",
+    "inputFiles": [
+      "js/ppcore.js"
+    ]
+  }
+]

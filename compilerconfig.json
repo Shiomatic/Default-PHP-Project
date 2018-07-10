@@ -1,0 +1,18 @@
+﻿[
+  {
+    "outputFile": "css/pp-jquery.css",
+    "inputFile": "css/pp-jquery.less"
+  },
+  {
+    "outputFile": "css/default.css",
+    "inputFile": "css/default.less"
+  },
+  {
+    "outputFile": "js/default.es5.js",
+    "inputFile": "js/default.js"
+  },
+  {
+    "outputFile": "css/ppcore.css",
+    "inputFile": "css/ppcore.less"
+  }
+]

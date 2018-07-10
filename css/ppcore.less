@@ -1,0 +1,20 @@
+﻿form {
+    input[type=text],
+    input[type=email],
+    input[type=password],
+    textarea {
+        -webkit-transition: all ease-in 0.2s !important;
+        transition: all ease-in 0.2s !important;
+
+        &:focus {
+            border-color: none !important;
+            box-shadow: none !important;
+            transform: scale(1.01);
+        }
+
+        &.form-error {
+            background: #ffe5e5 !important;
+            border-color: #e25454 !important;
+        }
+    }
+}
